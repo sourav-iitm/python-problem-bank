@@ -4,7 +4,7 @@ I added these questions because either I found the question good or I found a pr
 
 ## 4 kyu 
 
-- Next bigger number with the same digits
+### 1. **Next bigger number with the same digits**
 
 Create a function that takes a positive integer and returns the next bigger number that can be formed by rearranging its digits. For example:
 
@@ -18,9 +18,9 @@ If the digits can't be rearranged to form a bigger number, return -1 (or nil in 
 111 ==> -1
 531 ==> -1
 
-## (6 kyu) 
+## 6 kyu
 
-- Your order, please
+### 1. **Your order, please**
 
 Description:
 
@@ -35,7 +35,7 @@ Examples
 "4of Fo1r pe6ople g3ood th5e the2"  -->  "Fo1r the2 g3ood 4of th5e pe6ople"
 ""  -->  ""
 
-- Find the odd int
+### 2. **Find the odd int**
 
 Description:
 
@@ -49,4 +49,3 @@ Examples
 [1,1,2] should return 2, because it occurs 1 time (which is odd).
 [0,1,0,1,0] should return 0, because it occurs 3 times (which is odd).
 [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
-
