@@ -1,8 +1,10 @@
-## Problems
+# Problems
 
 I added these questions because either I found the question good or I found a pretty clever solution in the submissions.
 
-- (4 kyu) Next bigger number with the same digits
+## 4 kyu 
+
+- Next bigger number with the same digits
 
 Create a function that takes a positive integer and returns the next bigger number that can be formed by rearranging its digits. For example:
 
@@ -16,7 +18,9 @@ If the digits can't be rearranged to form a bigger number, return -1 (or nil in 
 111 ==> -1
 531 ==> -1
 
-- (6 kyu) Your order, please
+## (6 kyu) 
+
+- Your order, please
 
 Description:
 
@@ -31,7 +35,7 @@ Examples
 "4of Fo1r pe6ople g3ood th5e the2"  -->  "Fo1r the2 g3ood 4of th5e pe6ople"
 ""  -->  ""
 
-- (6 kyu) Find the odd int
+- Find the odd int
 
 Description:
 
